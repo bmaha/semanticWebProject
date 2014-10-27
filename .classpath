@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/arq.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/iri.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/jena.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/jenatest.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/json.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/lucene-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/stax-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/wstx-asl-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="D:/MS COURSE MATERIALS/SPRING &apos;14/SEMANTIC WEB/Jars/Jena-2.5.6/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/arq.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/aterm-java-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/iri.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/jena.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/pellet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/relaxngDatatype.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/spring-beans-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/spring-beans-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/spring-beans-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/spring-build-src-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/lib/xsdlib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/arq.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/aterm-java-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/iri.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/jena.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/pellet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/relaxngDatatype.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/spring-beans-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/spring-beans-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/spring-beans-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/spring-build-src-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maha/Downloads/Semantic-Web-Project-Veteran-Health-Expenses-master/Semantic-Web-Project-Veteran-Health-Expenses-master/VHS/WebContent/WEB-INF/lib/xsdlib.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
